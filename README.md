@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Szymok/Szymok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<a href="https://app.daily.dev/Szymkon"><img src="https://api.daily.dev/devcards/b6cdb494ea144ba3a6a062a7dda0eaf6.png?r=xcp" width="400" alt="Szymon's Dev Card"/></a>
