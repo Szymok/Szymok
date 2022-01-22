@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szymok&" alt="szymok" /></p>
 
-<p float="right>"<a href="https://app.daily.dev/Szymkon"><img src="https://github.com/Szymok/Szymok/blob/main/devcard.svg" width="400" alt="Szymon's Dev Card"/></a></p>
+<a float="right>"<a href="https://app.daily.dev/Szymkon"><img src="https://github.com/Szymok/Szymok/blob/main/devcard.svg" width="400" alt="Szymon's Dev Card"/></a>
