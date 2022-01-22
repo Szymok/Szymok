@@ -1,5 +1,3 @@
-<p float="right>"<a href="https://app.daily.dev/Szymkon"><img src="https://github.com/Szymok/Szymok/blob/main/devcard.svg" width="400" alt="Szymon's Dev Card"/></a></p>
-
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">A passionate data scientist from Poland</h3>
 
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szymok&show_icons=true&locale=en" alt="szymok" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szymok&" alt="szymok" /></p>
+
+<p float="right>"<a href="https://app.daily.dev/Szymkon"><img src="https://github.com/Szymok/Szymok/blob/main/devcard.svg" width="400" alt="Szymon's Dev Card"/></a></p>
