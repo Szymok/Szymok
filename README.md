@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/skszymon" target="blank"><img src="https://img.shields.io/twitter/follow/skszymon?logo=twitter&style=for-the-badge" alt="skszymon" /></a> </p>
 
-- 🌱 I’m currently learning **deep learning, gcp and**
+- 🌱 I’m currently learning **data engineering pipelines**
 
 - 👨‍💻 All of my projects are available at [skszymon.online](skszymon.online)
 
-### Blogs posts
+### Blogs posts here:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
