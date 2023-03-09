@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data consultant from Poland</h3>
 
-<p align="left"> <a href="https://twitter.com/skszymon" target="blank"><img src="https://img.shields.io/twitter/follow/skszymon?logo=twitter&style=for-the-badge" alt="skszymon" /></a> </p>
 
 - 🔭 I’m currently working on **ETL pipelines**
 
