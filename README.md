@@ -10,15 +10,15 @@
 
 - 🤝 I’m looking for help with **data analysis**
 
-- 👨‍💻 All of my projects are available at [www.skszymon.eu/projects](www.skszymon.eu/projects)
+- 👨‍💻 All of my projects are available at [www.skszymon.eu/projects]<a href="www.skszymon.eu/projects" target="blank">
 
-- 📝 I regularly write articles on [www.skszymon.eu/blog](www.skszymon.eu/blog)
+- 📝 I regularly write articles on [www.skszymon.eu/blog]<a href="www.skszymon.eu/blog" target="blank">
 
 - 💬 Ask me about **Big Data**
 
 - 📫 How to reach me **szymonkowal019@gmail.com**
 
-- 📄 Know about my experiences [www.skszymon.eu/cv](www.skszymon.eu/cv)
+- 📄 Know about my experiences [www.skszymon.eu/cv]<a href="www.skszymon.eu/cv" target="blank">
 
 - ⚡ Fun fact **I think i am funny**
 
