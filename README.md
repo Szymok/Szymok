@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ETL pipelines**
 
-- 🌱 I’m currently learning **Qlik environment**
+- 🌱 I’m currently learning **Azure**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
